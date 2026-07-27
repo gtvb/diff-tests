@@ -1,0 +1,5 @@
+# Secret: personal access token — never commit
+token.txt
+
+# Large fetched diff artifacts (2+ GB, regenerable via run-tests.sh)
+out/
